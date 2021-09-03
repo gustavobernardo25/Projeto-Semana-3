@@ -1,0 +1,33 @@
+
+
+#container{
+    height: 90vh;
+    border: 10px solid gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ccc;
+    
+}
+
+input{
+    border: none;
+    background-color: gray;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 5px;
+    text-align: center;
+   
+}
+
+#conteudo{
+    border: 10px solid gray;
+    width: 800px;
+    
+
+}
+button{
+    padding: 5px;
+    border: none;
+    background-color: honeydew;
+}
